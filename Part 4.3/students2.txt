@@ -1,0 +1,4 @@
+Donald Duck 177.77
+Tweety Bird -10
+Charlie Brown 101
+Mickey Mouse 90.8
