@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exam I/Exam I.iml" filepath="$PROJECT_DIR$/Exam I/Exam I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam I Review/Exam I Review.iml" filepath="$PROJECT_DIR$/Exam I Review/Exam I Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/Final Project.iml" filepath="$PROJECT_DIR$/Final Project/Final Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java II.iml" filepath="$PROJECT_DIR$/.idea/Java II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 1/PA 1.iml" filepath="$PROJECT_DIR$/PA 1/PA 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 2/PA 2.iml" filepath="$PROJECT_DIR$/PA 2/PA 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 3/PA 3.iml" filepath="$PROJECT_DIR$/PA 3/PA 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 4/PA 4.iml" filepath="$PROJECT_DIR$/PA 4/PA 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 5/PA 5.iml" filepath="$PROJECT_DIR$/PA 5/PA 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 6/PA 6.iml" filepath="$PROJECT_DIR$/PA 6/PA 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1.1/Part 1.1.iml" filepath="$PROJECT_DIR$/Part 1.1/Part 1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1.2/Part 1.2.iml" filepath="$PROJECT_DIR$/Part 1.2/Part 1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2.1/Part 2.1.iml" filepath="$PROJECT_DIR$/Part 2.1/Part 2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2.2/Part 2.2.iml" filepath="$PROJECT_DIR$/Part 2.2/Part 2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2.3/Part 2.3.iml" filepath="$PROJECT_DIR$/Part 2.3/Part 2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3.1/Part 3.1.iml" filepath="$PROJECT_DIR$/Part 3.1/Part 3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3.2/Part 3.2.iml" filepath="$PROJECT_DIR$/Part 3.2/Part 3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3.3/Part 3.3.iml" filepath="$PROJECT_DIR$/Part 3.3/Part 3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3.4/Part 3.4.iml" filepath="$PROJECT_DIR$/Part 3.4/Part 3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4.1/Part 4.1.iml" filepath="$PROJECT_DIR$/Part 4.1/Part 4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4.2/Part 4.2.iml" filepath="$PROJECT_DIR$/Part 4.2/Part 4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4.3/Part 4.3.iml" filepath="$PROJECT_DIR$/Part 4.3/Part 4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 5.1/Part 5.1.iml" filepath="$PROJECT_DIR$/Part 5.1/Part 5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 5.2/Part 5.2.iml" filepath="$PROJECT_DIR$/Part 5.2/Part 5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 6.1/Part 6.1.iml" filepath="$PROJECT_DIR$/Part 6.1/Part 6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 6.2/Part 6.2.iml" filepath="$PROJECT_DIR$/Part 6.2/Part 6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 6.3/Part 6.3.iml" filepath="$PROJECT_DIR$/Part 6.3/Part 6.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 6.4/Part 6.4.iml" filepath="$PROJECT_DIR$/Part 6.4/Part 6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 7.1/Part 7.1.iml" filepath="$PROJECT_DIR$/Part 7.1/Part 7.1.iml" />
+    </modules>
+  </component>
+</project>
